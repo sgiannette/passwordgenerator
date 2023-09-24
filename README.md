@@ -4,9 +4,7 @@
 
 This project is a password generator for people to use in order to generate various random passwords. I built this project in order to create something that can provide a random password. Currently, people are not using secure enough passwords and are being "hacked". If they use this password generator, their passwords will be more secure and impossible to guess.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
